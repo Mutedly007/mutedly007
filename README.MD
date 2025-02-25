@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Aziz Hammami</h1>
-<h3 align="center">A humble student</h3>
+<h3 align="center">A Computer Engineering Student at ESPRIT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mutedly007&label=Profile%20views&color=0e75b6&style=flat" alt="mutedly007" /> </p>
 
