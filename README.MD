@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mutedly007" alt="mutedly007" /></a> </p>
 
-- 🔭 I’m currently working on [Projetct Souk_elNFT](https://github.com/grp-ArtiTechs/NFT-Marketplace-Web)
+- 🔭 I’m currently working on [Projet Souk_elNFT](https://github.com/grp-ArtiTechs/NFT-Marketplace-Web)
 
 - 💬 Ask me about **Anything**
 
@@ -15,7 +15,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/dev.aziz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.aziz" height="30" width="40" /></a>
 <a href="https://fb.com/aziz hammami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aziz hammami" height="30" width="40" /></a>
 <a href="https://instagram.com/aziz.hm96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aziz.hm96" height="30" width="40" /></a>
 </p>
