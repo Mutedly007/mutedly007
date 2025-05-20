@@ -16,7 +16,9 @@ while (isAwake) {
     create();
     repeat();
 }
+
 </details>
+
 ![alt text](https://capsule-render.vercel.app/api?type=venom&height=150&text=🚀%20Featured%20Projects&fontSize=40&color=0:8871e5,100:b678c4&stroke=b678c4)
 
 <!-- Featured Projects Section -->
@@ -156,9 +158,5 @@ while (isAwake) {
 <div align="center">
 <p><i>Thanks for visiting my GitHub profile! Feel free to connect or check out my projects.</i></p>
 <br>
-</div>
-<div align="center">
-![alt text](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-
 </div>
 ![alt text](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer)
