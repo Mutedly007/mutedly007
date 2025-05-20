@@ -16,8 +16,6 @@ while (isAwake) {
     create();
     repeat();
 }
-Use code with caution.
-Html
 </details>
 ![alt text](https://capsule-render.vercel.app/api?type=venom&height=150&text=🚀%20Featured%20Projects&fontSize=40&color=0:8871e5,100:b678c4&stroke=b678c4)
 
@@ -164,5 +162,3 @@ Html
 
 </div>
 ![alt text](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer)
-
-Use code with caution.
