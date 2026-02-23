@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **Mohamedaziz.hammami@sprit.tn**
+- 📫 How to reach me **Mohamedaziz.hammami@esprit.tn**
 
 - ⚡ Fun fact **I think im funny**
 
