@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/medaziz_hammami" target="blank"><img src="https://img.shields.io/twitter/follow/medaziz_hammami?logo=twitter&style=for-the-badge" alt="medaziz_hammami" /></a> </p>
 
-- 🔭 I’m currently working on [Sou9 El NFT](https://github.com/Sou9-NFT/NFT-Marketplace-Web)
+- 🔭 I’m currently working on [LeaugeOfCode](https://github.com/feresadouani/LeagueOfCode)
 
 - 💬 Ask me about **Anything**
 
